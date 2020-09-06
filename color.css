@@ -1,0 +1,16 @@
+.container .skills:nth-child(2) .percent .progress
+{
+    background: linear-gradient(45deg, #1fe6ff, #673ab7);
+}
+.container .skills:nth-child(3) .percent .progress
+{
+    background: linear-gradient (45deg, #3bc0ff, #33ff00);
+}
+.container .skills:nth-child(4) .percent .progress
+{
+    background: linear-gradient (45deg, #ffee54, #ff00ca);
+}
+.container .skills:nth-child(5) .percent .progress
+{
+    background: linear-gradient(45deg, #22ffde, #2196f3);
+}
