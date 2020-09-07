@@ -130,3 +130,15 @@ body
 {
     background: linear-gradient(45deg, #ffee54, #ff00ca);
 }
+.container .skills:nth-child(8) .percent .progress
+{
+    background: linear-gradient(45deg, #3bc0ff, #33ff00);
+}
+.container .skills:nth-child(9) .percent .progress
+{
+    background: linear-gradient(45deg, #ffee54, #ff00ca);
+}
+.container .skills:nth-child(10) .percent .progress
+{
+    background: linear-gradient(45deg, #22ffde, #2196f3);
+}
